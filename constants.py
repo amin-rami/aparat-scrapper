@@ -1,0 +1,6 @@
+QAUL_144p = 0
+QAUL_240p = 1
+QAUL_360p = 2
+QAUL_480p = 3
+QAUL_720p = 4
+QAUL_1080p = 5
